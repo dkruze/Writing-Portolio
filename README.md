@@ -1,8 +1,2 @@
 # Writing-Portolio
-This repository contains .txt and .pdf versions of my selected writings. Technical documents, critiques, and essays from various points in the last 5 years. It is separated into subdirectories that represent different kinds of writing, some of which may already be included in different repositories on this github.
-1. TECHNICAL WRITING
-
-2. ESSAYS
-
-3. CRITIQUES
-
+This repository contains .txt and .pdf versions of my selected writings. Technical documents, critiques, and essays from various points in the last 5 years. Some of these may already be included in different repositories on this github. The given writings vary in subject and size, but not in style. They represent the development of my writing style over a long period, comprising works from my time as a student, my time as a scientist with Eurofins, and my own, personal writings regarding arts and culture. Due to the confidential nature of my position at Eurofins, technical writings may not be legally posted due to their specific natures. I no longer have access to them, as they are located on secure, client servers. 
