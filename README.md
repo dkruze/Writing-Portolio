@@ -11,6 +11,7 @@ Below is a comprehensive list of the included writings, that may be appended or 
  <li> "CloudComputingThesis_2023"
   
  *This is the written summary of my student thesis, which analyzed the feasability of investing in new cloud computing technologies for universities. The codebase/data being referenced in the document is included in my thesis repository on          this github page.*
+ </li>
  </ul>
 </li>
 </ul>
