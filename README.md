@@ -5,8 +5,8 @@ These writings are organized into two subdirectories, one for PDF writings and o
 
 Below is a comprehensive list of the included writings, that may be appended or revised as things are added or removed from this repository in the future. In this list, a brief description of each file will be included.
 
-PDFS
+# PDFS
 
-  "CloudComputingThesis_2023"
+ ## "CloudComputingThesis_2023"
   
-   This is the written summary of my student thesis, which analyzed the feasability of investing in new cloud computing technologies for universities. The codebase/data being referenced in the document is included in my thesis repository on          this github page.
+   ### This is the written summary of my student thesis, which analyzed the feasability of investing in new cloud computing technologies for universities. The codebase/data being referenced in the document is included in my thesis repository on          this github page.
