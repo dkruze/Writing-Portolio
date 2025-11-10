@@ -4,6 +4,6 @@ This repository contains .txt and .pdf versions of my selected writings. Technic
 These writings are organized into two subdirectories, one for PDF writings and one for TXT writings. Among the PDF writings are essays, reports, mathematical proofs, and tutorials from my time as a student. These comprise my most "academic" work, and represent my ability to write formally and technically. Among the TXT writings are a series of critiques, some longer than others, of films both historical and modern, which represents the bulk of my hobby writing. I like to have thoughts written and organized for the art I study, which includes films, paintings, music, and even video games. This folder also includes one writing that summarizes my thoughts on my own approach to developing style in music, titled "Old Wave."
 
 Below is a comprehensive list of the included writings, that may be appended or revised as things are added or removed from this repository in the future. In this list, a brief description of each file will be included.
->PDFS
-  >"CloudComputingThesis_2023"
-    >This is the written summary of my student thesis, which analyzed the feasability of investing in new cloud computing technologies for universities. The codebase/data being referenced in the document is included in my thesis repository on          this github page.
+-PDFS
+  -"CloudComputingThesis_2023"
+    -This is the written summary of my student thesis, which analyzed the feasability of investing in new cloud computing technologies for universities. The codebase/data being referenced in the document is included in my thesis repository on          this github page.
