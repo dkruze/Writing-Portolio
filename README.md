@@ -6,7 +6,7 @@ These writings are organized into two subdirectories, one for PDF writings and o
 Below is a comprehensive list of the included writings, that may be appended or revised as things are added or removed from this repository in the future. In this list, a brief description of each file will be included.
 
 <ul>
-<li> __PDFs__
+<li> **PDFs**
  <ul>
  <li> "CloudComputingThesis_2023"
   
