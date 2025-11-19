@@ -34,6 +34,10 @@ Below is a comprehensive list of the included writings, that may be appended or 
   
  *This paper concerns a project undertaken by myself and the management of Nesso Italian Kitchen, a former employer of mine, to track the ecological impact of some of the restaurant's operations. This was compiled at the suggestion of an ecology professor of mine at the time, and is written in a typical "academic paper" style with pictures and diagrams. Note the lengthy, annotated bibliography, which is a less common fixture which I personally find both charming and trustworthy in a scientific document.*
  </li>
+  <li> "TekkenTextbook"
+  
+ *This longform tutorial was written off the cuff before and during the first year of the video game Tekken 8. It is intended as a textbook for beginners, comprising all the knowledge I had accumulated as a veteran of the game's previous installments. The subject matter may seem niche or simply silly, but the game's complexity demanded a significant investment with annotated references. I have touched this up since its initial release to be more exact, accurate, and slightly less slanderous toward my own in-game opponents. It serves now as one of my biggest "hobby" projects at around 50 pages, and the information is still largely valuable for current players of Tekken 8. It presumes a level of familiarity with similar video games, but provides a ground-up analysis of Tekken's specific systems, from the most basic to the most niche.*
+ </li>
  </ul>
 </li>
 <li> TXTs
