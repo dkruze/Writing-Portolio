@@ -74,6 +74,11 @@ Below is a comprehensive list of the included writings, that may be appended or 
   
  *An analysis of Carl Theodor Dreyer's "Vampyr," and a breakdown of his methods by assessing his own writings and speeches. This is his most enduring film, and may be his most experimental in its approach to horrific imagery.*
  </li>
+  </li>
+ <li> "JeVousSalue"
+  
+ *A discussion using various academic references of the potential for video games to be intellectual as an art form. Rather than evaluating cases, this is generally an abstract piece describing the potential political/metaphysical utility of video games. This piece is primarily inspired by Jean-Luc Godard's 1970 manifesto "What is to be Done."*
+ </li>
  </ul>
 </li>
 </ul>
